@@ -1,0 +1,10 @@
+{
+    "invoice_pdf_path": "invoice_generator/invoice.pdf",
+    "medicines": {
+        "Medicine A": 40.0,
+        "Medicine B": 20.0,
+        "Medicine C": 30.0,
+        "Medicine D": 25.0,
+        "Medicine E": 50.0
+    }
+}
